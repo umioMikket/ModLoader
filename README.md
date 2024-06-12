@@ -9,6 +9,7 @@ Illustration of a basic mod loader:
 ![plot](image.png)
 
 [Link to mod code](src/main/java/com/umiomikket/modloader/ModExample.java)
+[Link to mod info](src/main/resources/mod.json)
 
 ### 🏭 Creating a mod
 Your project must have a dependency of this resource in any form (maven, copy of the project).
