@@ -1,0 +1,9 @@
+{
+  "name": "Mod Example!",
+  "version": 1.0,
+  "description": "description",
+  "author": "umioMikket",
+  "website": "im not have",
+
+  "main": "com.umiomikket.modloader.ModExample"
+}

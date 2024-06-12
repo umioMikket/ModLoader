@@ -1,0 +1,1 @@
+Here a compiled jar of project, for testing.
